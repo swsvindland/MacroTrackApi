@@ -75,3 +75,5 @@ _[Ss]cripts
 *.dot[Cc]over
 
 secrets.json
+
+.DS_Store
